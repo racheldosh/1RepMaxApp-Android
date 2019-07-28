@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fitbod1RepMaxApp</string>
+    <string name="lbs">lbs</string>
+    <string name="rep_max_label">1 RM Record</string>
+</resources>
