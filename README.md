@@ -8,6 +8,6 @@ Date (MMM dd YYYY) of workout, Exercise Name, Sets, Reps, Weight
 
 Exercise class defines exercise name, date, and maxRep calculated during the set
 
-Future work: reformat graphs, adds tests, run 1RM calculation on background thread
+Future work: reformat graphs, adds tests, run 1RM calculation on background thread, make a better formatted readme :) 
 
 
